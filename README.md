@@ -1,0 +1,2 @@
+# ExcellentStoreAnalysis
+Here am working on a dataset from zindi hackaton ,The CEO of the company, Chief A. A. Babatunji, plans to expand the chain of stores to more Nigerian cities in 2021. However, as the COVID19 restrictions have affected the retail business, he sees the need to better understand which products return higher profits at specific stores so as to inform the expansion plan so as a data scientist am going to be providing insights from excellent stores and give chief babatunji the neccesary steps to take in expanding his business.
